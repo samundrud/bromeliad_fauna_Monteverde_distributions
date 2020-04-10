@@ -1,0 +1,23 @@
+"List of variables in the dataset ""Temperature_means.csv""",
+,
+Variable,Description
+site,"Identifyer for each study site (AL: Aleman, BR: Brillantes, DA: Dos Ases, EL: Eladios, EV: El Valle, PS: Poco Sol, RT: Research Trail, SG: San Gerardo, SL: San Luis)"
+side,The side of Monteverde Mountain (Pacific slope or Atlantic slope)
+date_start,Starting date of iButton records used to summarize daily temperature values (Julian)
+n_days,Time period for which temperature data was summarized (number of days after date_start)
+mean_daily_temp,Mean of the average daily temperature (øC)
+mean_daily_temp_sd,Standard deviation of the mean of the average daily temperature
+mean_max_temp,Mean of the maximum daily temperature (øC)
+mean_max_temp_sd,Standard deviation of the mean of the maximum daily temperature
+max_max_temp,Overall maximum temperature recorded in the time frame of study (øC)
+mean_min_temp,Mean of the minimum daily temperature (øC)
+mean_min_temp_sd,Standard deviation of the mean of the minimum daily temperature
+min_min_temp,Overall minimum temperature recorded in the time frame of study (øC)
+mean_range,Mean daily temperature range (øC)
+mean_range_sd,Standard deviation of the mean daily temperature range
+Brom_ID,Unique identifyer of bromeliad at which (or in which) temperature logger was placed (if applicaple)
+GPS,Unique identifyer of GPS record
+coordinates,Geographical coordinates
+elevation,Elevation (in meters)
+placement,Variable describing where temperature logger was placed (ambient: outside bromeliad; bromeliad: inside a bromeliad well)
+exposure,Variable describing canopy cover above temperature logger (closed: covered by canopy; partial: partially covered by canopy; open: not covered by canopy)

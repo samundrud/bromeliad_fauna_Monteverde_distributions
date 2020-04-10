@@ -1,0 +1,12 @@
+"List of variables in the dataset ""Humidity.csv""",
+,
+Variable,Description
+site,Name of site with weather station from which humidity was recorded
+side,The side of Monteverde Mountain (Pacific slope or Atlantic slope)
+site_elev,Elevation (in meters) of each site
+av_daily_mean,Average daily humidity (%)
+av_daily_mean_SD,Standard deviation of average daily humidity
+av_daily_max,Maximum daily humidity (%)
+av_daily_max_SD,Standard deviation of maximum daily humidity
+av_daily_min,Minimum daily humidity (%)
+av_daily_min_SD,Standard deviation of minimum daily humidity

@@ -1,0 +1,7 @@
+"List of variables in the dataset ""CTmax_species.csv""",
+,
+Variable,Description
+type,Common name of focal taxa
+species,Scientific name of focal taxa (to finest taxonomic level possible)
+CTmax_mean,Mean of critical thermal maximum
+CTmax_SE,Standard error of critical thermal maximum

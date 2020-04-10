@@ -1,0 +1,179 @@
+type,species,site,side,elevation,date,CTmax
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,34
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,37
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,38
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,41
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,40
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,40
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,41
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,36
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,37
+Culex,Culex erethyzonfer,AL,Atlantic,974,14/10/2015,39
+Damsel,Mecistogaster modesta,AL,Atlantic,974,14/10/2015,45
+Damsel,Mecistogaster modesta,AL,Atlantic,974,26/11/2015,45.5
+Damsel,Mecistogaster modesta,AL,Atlantic,974,26/11/2015,45
+Damsel,Mecistogaster modesta,AL,Atlantic,974,26/11/2015,45.5
+Damsel,Mecistogaster modesta,AL,Atlantic,974,26/11/2015,46
+Damsel,Mecistogaster modesta,AL,Atlantic,975,14/10/2015,45
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,40
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,35
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,39
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,38
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,38
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,11/10/2015,41
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,12/10/2015,39
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,12/10/2015,39
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,12/10/2015,39
+Polypedilum,Polypedilum sp.,AL,Atlantic,974,12/10/2015,40
+Scirtid,Scirtid sp.,AL,Atlantic,974,12/10/2015,42
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,43
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,41.5
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,42
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,44
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,39
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,42
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,36
+Scirtid,Scirtid sp.,AL,Atlantic,974,13/10/2015,43
+Scirtid,Scirtid sp.,AL,Atlantic,974,14/10/2015,40
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,09/10/2015,42
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,09/10/2015,41
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,10/10/2015,42
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,10/10/2015,42
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,10/10/2015,43
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,10/10/2015,43.5
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,10/10/2015,43
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,14/10/2015,42
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,14/10/2015,41
+Tipulid,Trentepohlia sp. ,AL,Atlantic,974,14/10/2015,42
+Culex,Culex erethyzonfer,RT,Pacific,1517,21/10/2015,34
+Culex,Culex erethyzonfer,RT,Pacific,1517,21/10/2015,36
+Culex,Culex erethyzonfer,RT,Pacific,1517,21/10/2015,37
+Culex,Culex erethyzonfer,RT,Pacific,1517,21/10/2015,38
+Culex,Culex erethyzonfer,RT,Pacific,1517,20/11/2015,37
+Culex,Culex erethyzonfer,RT,Pacific,1517,20/11/2015,39
+Culex,Culex erethyzonfer,RT,Pacific,1517,20/11/2015,38
+Culex,Culex erethyzonfer,RT,Pacific,1517,06/12/2015,40
+Culex,Culex erethyzonfer,RT,Pacific,1517,06/12/2015,42
+Culex,Culex erethyzonfer,RT,Pacific,1517,07/12/2015,40.5
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,17/10/2015,36
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,17/10/2015,38
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,19/11/2015,43
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,19/11/2015,40
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,19/11/2015,41
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,19/11/2015,39
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,20/11/2015,42
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,07/12/2015,39
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,07/12/2015,40.5
+Polypedilum,Polypedilum sp.,RT,Pacific,1517,07/12/2015,41
+Scirtid,Scirtid sp.,RT,Pacific,1517,17/10/2015,44
+Scirtid,Scirtid sp.,RT,Pacific,1517,17/10/2015,43
+Scirtid,Scirtid sp.,RT,Pacific,1517,17/10/2015,41
+Scirtid,Scirtid sp.,RT,Pacific,1517,17/10/2015,40
+Scirtid,Scirtid sp.,RT,Pacific,1517,18/11/2015,41
+Scirtid,Scirtid sp.,RT,Pacific,1517,18/11/2015,41
+Scirtid,Scirtid sp.,RT,Pacific,1517,19/11/2015,44
+Scirtid,Scirtid sp.,RT,Pacific,1517,06/12/2015,42
+Scirtid,Scirtid sp.,RT,Pacific,1517,07/12/2015,39.5
+Scirtid,Scirtid sp.,RT,Pacific,1517,07/12/2015,40
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,17/10/2015,42
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,17/10/2015,39
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,17/10/2015,41
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,17/10/2015,40
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,22/11/2015,43
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,22/11/2015,38
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,22/11/2015,39.5
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,06/12/2015,42
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,06/12/2015,41
+Tipulid,Trentepohlia sp. ,RT,Pacific,1517,07/12/2015,42
+Culex,Culex erethyzonfer,SG,Atlantic,1221,24/11/2015,38
+Culex,Culex erethyzonfer,SG,Atlantic,1221,24/11/2015,40.5
+Culex,Culex erethyzonfer,SG,Atlantic,1221,24/11/2015,38
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,39.5
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,37.5
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,36
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,39
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,38.5
+Culex,Culex erethyzonfer,SG,Atlantic,1221,25/11/2015,41
+Culex,Culex erethyzonfer,SG,Atlantic,1221,26/11/2015,37.5
+Culex,Culex erethyzonfer,SG,Atlantic,1221,26/11/2015,41
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,45.5
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,43
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,45
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,45
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,43
+Damsel,Mecistogaster modesta,SG,Atlantic,1221,23/11/2015,45.5
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,23/11/2015,44
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,24/11/2015,41
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,24/11/2015,45
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,24/11/2015,43.5
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,24/11/2015,44
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,25/11/2015,42
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,25/11/2015,43.5
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,25/11/2015,40.5
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,25/11/2015,41.5
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,26/11/2015,41
+Polypedilum,Polypedilum sp.,SG,Atlantic,1221,26/11/2015,43
+Scirtid,Scirtid sp.,SG,Atlantic,1221,24/11/2015,43.5
+Scirtid,Scirtid sp.,SG,Atlantic,1221,24/11/2015,44
+Scirtid,Scirtid sp.,SG,Atlantic,1221,24/11/2015,42
+Scirtid,Scirtid sp.,SG,Atlantic,1221,25/11/2015,42.5
+Scirtid,Scirtid sp.,SG,Atlantic,1221,25/11/2015,43
+Scirtid,Scirtid sp.,SG,Atlantic,1221,25/11/2015,41
+Scirtid,Scirtid sp.,SG,Atlantic,1221,25/11/2015,42
+Scirtid,Scirtid sp.,SG,Atlantic,1221,26/11/2015,43
+Scirtid,Scirtid sp.,SG,Atlantic,1221,26/11/2015,42
+Scirtid,Scirtid sp.,SG,Atlantic,1221,27/11/2015,43
+Scirtid,Scirtid sp.,SG,Atlantic,1221,28/11/2015,42
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,23/11/2015,42.5
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,23/11/2015,44
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,23/11/2015,43.5
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,24/11/2015,42.5
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,24/11/2015,41
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,24/11/2015,41.5
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,29/11/2015,41
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,29/11/2015,44
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,29/11/2015,42.5
+Tipulid,Trentepohlia sp. ,SG,Atlantic,1221,29/11/2015,43
+Culex,Culex erethyzonfer,SL,Pacific,1082,16/11/2015,37
+Culex,Culex erethyzonfer,SL,Pacific,1082,16/11/2015,37
+Culex,Culex erethyzonfer,SL,Pacific,1082,17/11/2015,36
+Culex,Culex erethyzonfer,SL,Pacific,1082,17/11/2015,39
+Culex,Culex erethyzonfer,SL,Pacific,1082,17/11/2015,38
+Culex,Culex erethyzonfer,SL,Pacific,1082,18/11/2015,36
+Culex,Culex erethyzonfer,SL,Pacific,1082,18/11/2015,38
+Culex,Culex erethyzonfer,SL,Pacific,1082,05/12/2015,42
+Culex,Culex erethyzonfer,SL,Pacific,1082,05/12/2015,41
+Culex,Culex erethyzonfer,SL,Pacific,1082,06/12/2015,44.5
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,22/11/2015,39
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,22/11/2015,38
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,22/11/2015,39.5
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,22/11/2015,39
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,22/11/2015,41
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,23/11/2015,42
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,23/11/2015,38
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,04/12/2015,41
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,05/12/2015,42
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,06/12/2015,40
+Polypedilum,Polypedilum sp.,SL,Pacific,1082,06/12/2015,43
+Scirtid,Scirtid sp.,SL,Pacific,1082,20/10/2015,42.5
+Scirtid,Scirtid sp.,SL,Pacific,1082,20/10/2015,42
+Scirtid,Scirtid sp.,SL,Pacific,1082,20/10/2015,42
+Scirtid,Scirtid sp.,SL,Pacific,1082,20/10/2015,42.5
+Scirtid,Scirtid sp.,SL,Pacific,1082,22/11/2015,39
+Scirtid,Scirtid sp.,SL,Pacific,1082,22/11/2015,41.5
+Scirtid,Scirtid sp.,SL,Pacific,1082,22/11/2015,43
+Scirtid,Scirtid sp.,SL,Pacific,1082,23/11/2015,41.5
+Scirtid,Scirtid sp.,SL,Pacific,1082,04/12/2015,43
+Scirtid,Scirtid sp.,SL,Pacific,1082,05/12/2015,43
+Scirtid,Scirtid sp.,SL,Pacific,1082,06/12/2015,42
+Scirtid,Scirtid sp.,SL,Pacific,1082,06/12/2015,44
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,18/10/2015,45.5
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,18/10/2015,45
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,18/10/2015,45
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,19/10/2015,41
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,21/11/2015,41
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,21/11/2015,43
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,21/11/2015,41.5
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,04/12/2015,43
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,04/12/2015,44
+Tipulid,Trentepohlia sp. ,SL,Pacific,1082,04/12/2015,46

@@ -1,0 +1,10 @@
+"List of variables in the dataset ""CTmax_individuals.csv""",
+,
+Variable,Description
+type,Common name of focal taxa
+species,Scientific name of focal taxa (to finest taxonomic level possible)
+site,"Identifyer for each study site (AL: Aleman, BR: Brillantes, DA: Dos Ases, EL: Eladios, EV: El Valle, PS: Poco Sol, RT: Research Trail, SG: San Gerardo, SL: San Luis)"
+side,The side of Monteverde Mountain (Pacific slope or Atlantic slope)
+elevation,Mean elevation (in meters) of each study site
+date,Date the CTmax experiment was performed
+CTmax,Critical thermal maximum
